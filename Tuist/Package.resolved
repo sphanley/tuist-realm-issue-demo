@@ -1,0 +1,24 @@
+{
+  "originHash" : "9af74a20b520b9c3bce6b5cf5cfc9bfdc01e3770d14f26ce0f2f8b0ef7cb1e10",
+  "pins" : [
+    {
+      "identity" : "realm.realm-core",
+      "kind" : "registry",
+      "location" : "",
+      "originalLocation" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "version" : "20.1.5"
+      }
+    },
+    {
+      "identity" : "realm.realm-swift",
+      "kind" : "registry",
+      "location" : "",
+      "originalLocation" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "version" : "20.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
